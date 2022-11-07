@@ -1,5 +1,5 @@
 # > Git 
-[Download this cheatsheet in PDF](https://github.com/edaehn/cheatsheets/PDF/)
+[Download this cheatsheet in PDF](https://github.com/edaehn/cheatsheets/pdf/git.pdf)
 
 # Index
 
