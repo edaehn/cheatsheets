@@ -3,18 +3,30 @@
 
 # Index
 
-[User Name and E-mail](#User Name and E-mail)
-[Initialise or Clone](#Initialise or Clone)
-[Remotes](#Remotes)
-[Branches and Merging](#Branches and Merging)
-[Adding Files and Commits](#Adding Files and Commits)
-[Updates and Publishing](#Updates and Publishing)
-[History](#History)
-[Merging and Rebase](#Merging and Rebase)
-[Differences](#Differences)
-[A Contribution Workflow](#A Contribution Workflow)
-[Undo Changes](#Undo Changes)
-[Stashing](#Stashing)
+
+[User Name and E-mail](#user-name-and-e-mail)
+
+[Initialise or Clone](#initialise-or-clone)
+
+[Remotes](#remotes)
+
+[Branches and Merging](#branches-and-merging)
+
+[Adding Files and Commits](#adding-files-and-commits)
+
+[Updates and Publishing](#updates-and-publishing)
+
+[History](#history)
+
+[Merging and Rebase](#merging-and-rebase)
+
+[Differences](#differences)
+
+[A Contribution Workflow](#a-contribution-workflow)
+
+[Undo Changes](#undo-changes)
+
+[Stashing](#stashing)[User Name and E-mail](#user-name-and-e-mail)
 
 
 ## User Name and E-mail
